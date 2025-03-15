@@ -1,10 +1,10 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome!!!&center=true&size=27"> </a> </h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=findnamed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=findnamed&card_width=250" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=findnamed&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=findnamed&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=findnamed&theme=github)](https://github.com/findnamed/github-readme-activity-graph)
